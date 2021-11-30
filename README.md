@@ -4,7 +4,7 @@ Decrypt , extract and open protected cheat engine trainers as simple .xml files.
 
 ## Installing
 
-Download pre-built program from [Releases](https://github.com/albertopoljak/UnProtect/releases)
+Download pre-built program from [Releases](https://github.com/hotwhitewind/CEtrainer-decrypter/releases)
 
 or 
 
